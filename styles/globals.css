@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.list-title {
+  padding: 20px 0px 20px 0px;
+}
+.list-desc {
+  font-size: larger;
+}
+
+form {
+  padding-top: 1%;
+  padding-bottom: 2%;
+}
